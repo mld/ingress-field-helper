@@ -1,0 +1,166 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Ingress Field Helper</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <style>
+            body {
+                padding-top: 50px;
+                padding-bottom: 20px;
+            }
+        </style>
+        <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="css/main.css">
+
+        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Ingress Field Helper</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <form class="navbar-form navbar-right" role="form">
+          </form>
+        </div><!--/.navbar-collapse -->
+      </div>
+    </nav>
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+        <h1>Hello, world!</h1>
+        <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+        <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8">
+      <form class="form-horizontal">
+              <fieldset>
+
+                      <!-- Form Name -->
+                      <legend>Links</legend>
+
+                      <!-- Select Basic -->
+                      <div class="form-group">
+                              <label class="col-md-4 control-label" for="selectbasic">AgentID</label>
+                              <div class="col-md-4">
+                                      <select id="selectbasic" name="selectbasic" class="form-control">
+                                              <option value="0">All</option>
+                                              <option value="1">1</option>
+                                              <option value="2">2</option>
+                                      </select>
+                              </div>
+                      </div>
+
+                      <!-- Multiple Checkboxes -->
+                      <div class="form-group">
+                              <label class="col-md-4 control-label" for="checkboxes">Länkar</label>
+                              <div class="col-md-4">
+                                      <div class="checkbox">
+                                              <label for="checkboxes-0">
+                                                      <input type="checkbox" name="checkboxes" id="checkboxes-0" value="0">
+                                                      0 Flatenbadet[11] - Svampar[1]
+                                              </label>
+                                      </div>
+                                      <div class="checkbox">
+                                              <label for="checkboxes-1">
+                                                      <input type="checkbox" name="checkboxes" id="checkboxes-1" value="1">
+                                                      1* Flatenbadet[11] - Ek[10]
+                                              </label>
+                                      </div>
+                                      <div class="checkbox">
+                                              <label for="checkboxes-2">
+                                                      <input type="checkbox" name="checkboxes" id="checkboxes-2" value="2">
+                                                      2 Ek[10] - Utomhusgym[7]
+                                              </label>
+                                      </div>
+                              </div>
+                      </div>
+
+                      <!-- Button -->
+                      <div class="form-group">
+                              <label class="col-md-4 control-label" for="singlebutton"></label>
+                              <div class="col-md-4">
+                                      <button id="singlebutton" name="singlebutton" class="btn btn-warning">Reset</button>
+                              </div>
+                      </div>
+
+              </fieldset>
+      </form>
+
+
+        </div>
+        <div class="col-md-4">
+      <form class="form-horizontal">
+              <fieldset>
+
+                      <!-- Form Name -->
+                      <legend>CSV Input from <a href="http://www.ingress-maxfield.com/">Ingress Maxfield</a></legend>
+
+                      <!-- Textarea -->
+                      <div class="form-group">
+                              <div class="col-md-12">                     
+                                      <textarea class="form-control" id="textarea" name="textarea">default text</textarea>
+                              </div>
+                      </div>
+
+                      <!-- Button -->
+                      <div class="form-group">
+                              <div class="col-md-12">
+                                      <a class="btn btn-primary" href="#" role="button">Parse!</a>
+                                      <a class="btn btn-warning" href="#" role="button">Clear!</a>
+                              </div>
+                      </div>
+
+                <fieldset>
+      </form>
+        </div>
+      </div>
+
+
+      <hr>
+
+      <footer>
+        <p>&copy; @fluffboll 2015 - </p>
+      </footer>
+    </div> <!-- /container -->        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.js"><\/script>')</script>
+
+        <script src="js/vendor/bootstrap.min.js"></script>
+
+        <script src="js/main.js"></script>
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <!-- script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='//www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-XXXXX-X','auto');ga('send','pageview');
+        </script -->
+    </body>
+</html>

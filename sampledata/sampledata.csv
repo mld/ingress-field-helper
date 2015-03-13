@@ -1,0 +1,33 @@
+Link, Agent, MapNumOrigin, OriginName, MapNumDestination, DestinationName
+0*, 1, 0, Barnens naturstig Flatenvägen, 8, Ask
+1*, 1, 0, Barnens naturstig Flatenvägen, 10, Barnens naturstig Flatenbadet
+2*, 1, 10, Barnens naturstig Flatenbadet, 13, Flatenbadet
+3*, 1, 10, Barnens naturstig Flatenbadet, 9, Utomhusgym
+4, 1, 0, Barnens naturstig Flatenvägen, 9, Utomhusgym
+5, 1, 0, Barnens naturstig Flatenvägen, 13, Flatenbadet
+6*, 1, 13, Flatenbadet, 11, Flatens naturreservat
+7*, 1, 13, Flatenbadet, 12, Ek
+8, 1, 13, Flatenbadet, 9, Utomhusgym
+9, 1, 13, Flatenbadet, 8, Ask
+10*, 1, 8, Ask, 7, Klibbal
+11, 1, 8, Ask, 10, Barnens naturstig Flatenbadet
+12*, 1, 2, Gran, 6, Tallen
+13*, 1, 2, Gran, 4, Storlom
+14*, 1, 2, Gran, 5, Sälg
+15*, 1, 2, Gran, 1, Asp
+16*, 1, 1, Asp, 0, Barnens naturstig Flatenvägen
+17, 1, 2, Gran, 0, Barnens naturstig Flatenvägen
+18, 1, 0, Barnens naturstig Flatenvägen, 7, Klibbal
+19*, 1, 5, Sälg, 3, Svampar
+20, 1, 2, Gran, 3, Svampar
+21, 1, 5, Sälg, 0, Barnens naturstig Flatenvägen
+22, 1, 0, Barnens naturstig Flatenvägen, 3, Svampar
+23, 1, 4, Storlom, 5, Sälg
+24, 1, 5, Sälg, 6, Tallen
+25, 1, 6, Tallen, 4, Storlom
+26, 1, 2, Gran, 7, Klibbal
+27, 1, 7, Klibbal, 5, Sälg
+28, 1, 7, Klibbal, 6, Tallen
+29, 1, 12, Ek, 8, Ask
+30, 1, 8, Ask, 11, Flatens naturreservat
+31, 1, 11, Flatens naturreservat, 12, Ek

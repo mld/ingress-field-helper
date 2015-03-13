@@ -1,0 +1,14 @@
+Flatenbadet;https://www.ingress.com/intel?ll=59.253569,18.16687&z=17&pll=59.253297,18.162474;
+Utomhusgym;https://www.ingress.com/intel?ll=59.253569,18.16687&z=17&pll=59.253628,18.161951;
+Barnens naturstig Flatenbadet;https://www.ingress.com/intel?ll=59.253569,18.16687&z=17&pll=59.253459,18.161469;
+Ek;https://www.ingress.com/intel?ll=59.253569,18.16687&z=17&pll=59.253414,18.160943;
+Flatens naturreservat; https://www.ingress.com/intel?ll=59.253569,18.16687&z=17&pll=59.253415,18.160554;
+Ask;https://www.ingress.com/intel?ll=59.253569,18.16687&z=17&pll=59.253707,18.158672;
+Klibbal;https://www.ingress.com/intel?ll=59.255017,18.166044&z=17&pll=59.255119,18.156837;
+Tallen;https://www.ingress.com/intel?ll=59.255017,18.166044&z=17&pll=59.255449,18.156854;
+Sälg;https://www.ingress.com/intel?ll=59.255017,18.166044&z=17&pll=59.256178,18.157012;
+Storlom;https://www.ingress.com/intel?ll=59.255017,18.166044&z=17&pll=59.256496,18.156761;
+Svampar;https://www.ingress.com/intel?ll=59.255017,18.166044&z=17&pll=59.257132,18.157009;
+Gran;https://www.ingress.com/intel?ll=59.255017,18.166044&z=17&pll=59.257388,18.156641;
+Asp;https://www.ingress.com/intel?ll=59.257704,18.166301&z=17&pll=59.258621,18.157009;
+Barnens naturstig Flatenvägen;https://www.ingress.com/intel?ll=59.257704,18.166301&z=17&pll=59.260189,18.157998;
